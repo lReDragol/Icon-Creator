@@ -4,7 +4,7 @@
 
 ---
 
-[![Название видео](https://img.youtube.com/vi/0AButxLoGoA/0.jpg)](https://youtu.be/0AButxLoGoA)
+[![Video](https://img.youtube.com/vi/0AButxLoGoA/0.jpg)](https://youtu.be/0AButxLoGoA?si=YpucXlnAyoI2pmyH)
 
 ---
 
