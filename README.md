@@ -3,7 +3,9 @@
 **Icon Creator** — это простое и удобное приложение для создания и редактирования иконок. С его помощью можно быстро настроить внешний вид иконок для проектов, приложений или персональных нужд.
 
 ---
-### 🎬 **[Youtube](https://youtu.be/0AButxLoGoA?si=YpucXlnAyoI2pmyH)**
+### 🎬 **[Youtube](https://youtu.be/0AButxLoGoA?si=YpucXlnAyoI2pmyH)** 
+🟢 **[Download icons](https://github.com/lReDragol/Icon-Creator/releases/tag/Icons)**
+
 [![Video](https://img.youtube.com/vi/0AButxLoGoA/0.jpg)](https://youtu.be/0AButxLoGoA?si=YpucXlnAyoI2pmyH)
 ![image](https://github.com/user-attachments/assets/38aa82a8-44e6-4377-b46e-f4725eac4e10)
 
