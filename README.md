@@ -5,6 +5,7 @@
 ---
 ### 🎬 **[Youtube](https://youtu.be/0AButxLoGoA?si=YpucXlnAyoI2pmyH)**
 [![Video](https://img.youtube.com/vi/0AButxLoGoA/0.jpg)](https://youtu.be/0AButxLoGoA?si=YpucXlnAyoI2pmyH)
+![image](https://github.com/user-attachments/assets/38aa82a8-44e6-4377-b46e-f4725eac4e10)
 
 ---
 
@@ -149,4 +150,9 @@
   <img src="https://aero-storage-s3.ldragol.ru/679e66e245a6ad00843ad3f3/67bf77e72cd0180084493320/WOT Blitz.ico" alt="Icon101" width="128" height="128" />
   <img src="https://aero-storage-s3.ldragol.ru/679e66e245a6ad00843ad3f3/67bf77e72cd0180084493321/WSL.ico" alt="Icon102" width="128" height="128" />
   <img src="https://aero-storage-s3.ldragol.ru/679e66e245a6ad00843ad3f3/67bf77e72cd0180084493322/Yandex.ico" alt="Icon103" width="128" height="128" />
+  <img src="https://s3.aero-storage.ldragol.ru/679e66e245a6ad00843ad3f3/67c9a57b6f0375008345d25d/Lucky Patcher.ico" alt="Icon104" width="128" height="128" />
+  <img src="https://s3.aero-storage.ldragol.ru/679e66e245a6ad00843ad3f3/67c9a5df6f0375008345d25e/Magisk.ico" alt="Icon105" width="128" height="128" />
+  <img src="https://s3.aero-storage.ldragol.ru/679e66e245a6ad00843ad3f3/67c9a61c6f0375008345d25f/GlassWire.ico" alt="Icon106" width="128" height="128" />
+  <img src="https://s3.aero-storage.ldragol.ru/679e66e245a6ad00843ad3f3/67c9a6626f0375008345d260/Comodo KillSwitch.ico" alt="Icon107" width="128" height="128" />
+  
 </p>
